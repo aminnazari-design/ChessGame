@@ -1,8 +1,8 @@
-# Chess App
-### installing dependencies
+#Chess App
+###installing dependencies
  pip install -r requirements `code`
 
-## Runnin app 
+##Runnin app 
 pyhton chess.py `code`
 
 
